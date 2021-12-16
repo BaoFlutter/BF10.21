@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>197609140249-u0el0acluri6il1l7bvvbnalpq0dfvns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.197609140249-u0el0acluri6il1l7bvvbnalpq0dfvns</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>197609140249-1fd3h3q2823g7af5m9agjcuf2psnfl3r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtXjwXJwpaCX3rSiH8XqjEMLgR61OECyY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>197609140249</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baoflutter.azChat</string>
+	<key>PROJECT_ID</key>
+	<string>azchat-273d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>azchat-273d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:197609140249:ios:ffa0303b247b1c0768ba88</string>
+</dict>
+</plist>

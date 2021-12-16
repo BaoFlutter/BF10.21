@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197609140249",
+    "project_id": "azchat-273d4",
+    "storage_bucket": "azchat-273d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197609140249:android:e1d0daead3e4cda468ba88",
+        "android_client_info": {
+          "package_name": "com.baoflutter.az_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197609140249-1fd3h3q2823g7af5m9agjcuf2psnfl3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baoflutter.az_chat",
+            "certificate_hash": "3d57b9423f94a184961bbe6e80d55d7da544e535"
+          }
+        },
+        {
+          "client_id": "197609140249-mtdmfh5bji06r9uqhhkkjkek9u92ecc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBRNwsT0K0xvv87oDy_MHCQOwhLVHglvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197609140249-mtdmfh5bji06r9uqhhkkjkek9u92ecc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
